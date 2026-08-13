@@ -1,5 +1,945 @@
 {
-  "ultima_atualizacao": "13/08/2026 15:05",
-  "dados": {},
+  "ultima_atualizacao": "13/08/2026 15:13",
+  "dados": {
+    "Maisons unifamiliales à Elmen": {
+      "url": "https://snhbm.lu/projets/vente/bien/rev-ke2-mu/",
+      "imoveis": {
+        "IH3055": {
+          "codigo": "IH3055",
+          "ref_completa": "IH3055",
+          "status": "Disponível",
+          "chambres": "4 ch.",
+          "surface": "139,68 m²",
+          "preco": "651 760 €"
+        },
+        "T9": {
+          "codigo": "T9",
+          "ref_completa": "T9",
+          "status": "Disponível",
+          "chambres": "4 ch.",
+          "surface": "136,54 m²",
+          "preco": "Prix de vente avec participation financière : prix à payer par l’acquéreur sous condition de respecter les critères d’éligibilité pour acquérir un logement abordable. Un certificat d’éligibilité à la vente abordable émis par le service des Aides au Logement fera foi dans le dossier de candidature. Remboursement TVA 50.000 € déduit."
+        },
+        "IH3056": {
+          "codigo": "IH3056",
+          "ref_completa": "IH3056",
+          "status": "Disponível",
+          "chambres": "4 ch.",
+          "surface": "136,13 m²",
+          "preco": "665 652 €"
+        },
+        "T5": {
+          "codigo": "T5",
+          "ref_completa": "T5",
+          "status": "Disponível",
+          "chambres": "4 ch.",
+          "surface": "137,74 m²",
+          "preco": "628 224 €"
+        },
+        "IH3060": {
+          "codigo": "IH3060",
+          "ref_completa": "IH3060",
+          "status": "Disponível",
+          "chambres": "4 ch.",
+          "surface": "139,97 m²",
+          "preco": "942 997 €"
+        },
+        "IH3095": {
+          "codigo": "IH3095",
+          "ref_completa": "IH3095",
+          "status": "Disponível",
+          "chambres": "4 ch.",
+          "surface": "204,61 m²",
+          "preco": "641 203 €"
+        },
+        "T1": {
+          "codigo": "T1",
+          "ref_completa": "T1",
+          "status": "Disponível",
+          "chambres": "4 ch.",
+          "surface": "204,61 m²",
+          "preco": "641 203 €"
+        },
+        "IH3152": {
+          "codigo": "IH3152",
+          "ref_completa": "IH3152",
+          "status": "Disponível",
+          "chambres": "4 ch.",
+          "surface": "136,10 m²",
+          "preco": "645 878 €"
+        },
+        "IH3059": {
+          "codigo": "IH3059",
+          "ref_completa": "IH3059 - réservé",
+          "status": "Reservado",
+          "chambres": "4 ch.",
+          "surface": "136,13 m²",
+          "preco": "655 840 €"
+        },
+        "IH3088": {
+          "codigo": "IH3088",
+          "ref_completa": "IH3088 - réservé",
+          "status": "Reservado",
+          "chambres": "4 ch.",
+          "surface": "139,45 m²",
+          "preco": "624 827 €"
+        },
+        "IH3094": {
+          "codigo": "IH3094",
+          "ref_completa": "IH3094 - réservé",
+          "status": "Reservado",
+          "chambres": "4 ch.",
+          "surface": "130,85 m²",
+          "preco": "663 288 €"
+        },
+        "T4": {
+          "codigo": "T4",
+          "ref_completa": "T4",
+          "status": "Disponível",
+          "chambres": "4 ch.",
+          "surface": "130,85 m²",
+          "preco": "663 288 €"
+        },
+        "IH3096": {
+          "codigo": "IH3096",
+          "ref_completa": "IH3096 - réservé",
+          "status": "Reservado",
+          "chambres": "4 ch.",
+          "surface": "140,12 m²",
+          "preco": "666 302 €"
+        },
+        "IH3097": {
+          "codigo": "IH3097",
+          "ref_completa": "IH3097 - réservé",
+          "status": "Reservado",
+          "chambres": "4 ch.",
+          "surface": "140,11 m²",
+          "preco": "584 167 €"
+        },
+        "IH3102": {
+          "codigo": "IH3102",
+          "ref_completa": "IH3102 - réservé",
+          "status": "Reservado",
+          "chambres": "3 ch.",
+          "surface": "122,89 m²",
+          "preco": "681 222 €"
+        },
+        "T8": {
+          "codigo": "T8",
+          "ref_completa": "T8",
+          "status": "Disponível",
+          "chambres": "3 ch.",
+          "surface": "128,70 m²",
+          "preco": "643 154 €"
+        },
+        "IH3107": {
+          "codigo": "IH3107",
+          "ref_completa": "IH3107 - réservé",
+          "status": "Reservado",
+          "chambres": "5 ch.",
+          "surface": "144,23 m²",
+          "preco": "653 668 €"
+        },
+        "T7": {
+          "codigo": "T7",
+          "ref_completa": "T7",
+          "status": "Disponível",
+          "chambres": "5 ch.",
+          "surface": "144,23 m²",
+          "preco": "653 668 €"
+        },
+        "IH3109": {
+          "codigo": "IH3109",
+          "ref_completa": "IH3109 - réservé",
+          "status": "Reservado",
+          "chambres": "4 ch.",
+          "surface": "139,39 m²",
+          "preco": "661 848 €"
+        },
+        "T3": {
+          "codigo": "T3",
+          "ref_completa": "T3",
+          "status": "Disponível",
+          "chambres": "4 ch.",
+          "surface": "139,39 m²",
+          "preco": "607 022 €"
+        },
+        "IH3061": {
+          "codigo": "IH3061",
+          "ref_completa": "IH3061 - vendu",
+          "status": "Vendido",
+          "chambres": "4 ch.",
+          "surface": "139,79 m²",
+          "preco": "641 288 €"
+        },
+        "T6": {
+          "codigo": "T6",
+          "ref_completa": "T6",
+          "status": "Disponível",
+          "chambres": "4 ch.",
+          "surface": "139,04 m²",
+          "preco": "594 411 €"
+        },
+        "IH3087": {
+          "codigo": "IH3087",
+          "ref_completa": "IH3087 - vendu",
+          "status": "Vendido",
+          "chambres": "4 ch.",
+          "surface": "136,12 m²",
+          "preco": "652 799 €"
+        },
+        "IH3089": {
+          "codigo": "IH3089",
+          "ref_completa": "IH3089 - vendu",
+          "status": "Vendido",
+          "chambres": "4 ch.",
+          "surface": "139,45 m²",
+          "preco": "648 313 €"
+        },
+        "IH3091": {
+          "codigo": "IH3091",
+          "ref_completa": "IH3091 - vendu",
+          "status": "Vendido",
+          "chambres": "4 ch.",
+          "surface": "137,74 m²",
+          "preco": "628 224 €"
+        },
+        "IH3098": {
+          "codigo": "IH3098",
+          "ref_completa": "IH3098 - vendu",
+          "status": "Vendido",
+          "chambres": "4 ch.",
+          "surface": "139,45 m²",
+          "preco": "630 318 €"
+        },
+        "IH3099": {
+          "codigo": "IH3099",
+          "ref_completa": "IH3099 - vendu",
+          "status": "Vendido",
+          "chambres": "4 ch.",
+          "surface": "139,93 m²",
+          "preco": "626 435 €"
+        },
+        "IH3100": {
+          "codigo": "IH3100",
+          "ref_completa": "IH3100 - vendu",
+          "status": "Vendido",
+          "chambres": "4 ch.",
+          "surface": "139,04 m²",
+          "preco": "594 411 €"
+        },
+        "IH3101": {
+          "codigo": "IH3101",
+          "ref_completa": "IH3101 - vendu",
+          "status": "Vendido",
+          "chambres": "3 ch.",
+          "surface": "125,81 m²",
+          "preco": "653 668 €"
+        },
+        "IH3103": {
+          "codigo": "IH3103",
+          "ref_completa": "IH3103 - vendu",
+          "status": "Vendido",
+          "chambres": "4 ch.",
+          "surface": "139,39 m²",
+          "preco": "653 668 €"
+        },
+        "IH3104": {
+          "codigo": "IH3104",
+          "ref_completa": "IH3104 - vendu",
+          "status": "Vendido",
+          "chambres": "4 ch.",
+          "surface": "139,39 m²",
+          "preco": "607 022 €"
+        },
+        "IH3105": {
+          "codigo": "IH3105",
+          "ref_completa": "IH3105 - vendu",
+          "status": "Vendido",
+          "chambres": "3 ch.",
+          "surface": "128,70 m²",
+          "preco": "653 668 €"
+        },
+        "IH3106": {
+          "codigo": "IH3106",
+          "ref_completa": "IH3106 - vendu",
+          "status": "Vendido",
+          "chambres": "4 ch.",
+          "surface": "139,39 m²",
+          "preco": "629 104 €"
+        },
+        "IH3108": {
+          "codigo": "IH3108",
+          "ref_completa": "IH3108 - vendu",
+          "status": "Vendido",
+          "chambres": "4 ch.",
+          "surface": "139,39 m²",
+          "preco": "607 022 €"
+        },
+        "IH3110": {
+          "codigo": "IH3110",
+          "ref_completa": "IH3110 - vendu",
+          "status": "Vendido",
+          "chambres": "3 ch.",
+          "surface": "128,70 m²",
+          "preco": "643 154 €"
+        },
+        "IH3154": {
+          "codigo": "IH3154",
+          "ref_completa": "IH3154 - vendu",
+          "status": "Vendido",
+          "chambres": "4 ch.",
+          "surface": "136,54 m²",
+          "preco": "Prix de vente avec participation financière : prix à payer par l’acquéreur sous condition de respecter les critères d’éligibilité pour acquérir un logement abordable. Un certificat d’éligibilité à la vente abordable émis par le service des Aides au Logement fera foi dans le dossier de candidature. Remboursement TVA 50.000 € déduit."
+        }
+      }
+    },
+    "Appartement à Esch-sur-Alzette": {
+      "url": "https://snhbm.lu/projets/vente/bien/rev-ih3559-023/",
+      "imoveis": {
+        "2026": {
+          "codigo": "2026",
+          "ref_completa": "2026",
+          "status": "Disponível",
+          "chambres": "2 ch.",
+          "surface": "N/D",
+          "preco": "Des emplacements de parkings sont disponibles à proximité. La résidence ALBI ne comprenant pas de garage sous-terrain, les acquéreurs ont la possibilité d’acquérir un emplacement auprès de la SNHBM conjointement avec l’appartement ; ceci, pour un supplément de 33 000 € TTC 17 %."
+        },
+        "023": {
+          "codigo": "023",
+          "ref_completa": "023",
+          "status": "Disponível",
+          "chambres": "1 ch.",
+          "surface": "88 m²",
+          "preco": "419 405 €"
+        }
+      }
+    },
+    "Appartements à Luxembourg-Bonnevoie": {
+      "url": "https://snhbm.lu/projets/vente/bien/ae14-4-5/",
+      "imoveis": {
+        "082": {
+          "codigo": "082",
+          "ref_completa": "082",
+          "status": "Disponível",
+          "chambres": "1 ch.",
+          "surface": "48,42 m²",
+          "preco": "278 132 €"
+        },
+        "083": {
+          "codigo": "083",
+          "ref_completa": "083",
+          "status": "Disponível",
+          "chambres": "1 ch.",
+          "surface": "49,31 m²",
+          "preco": "295 959 €"
+        },
+        "087": {
+          "codigo": "087",
+          "ref_completa": "087",
+          "status": "Disponível",
+          "chambres": "1 ch.",
+          "surface": "49,31 m²",
+          "preco": "277 397 €"
+        },
+        "088": {
+          "codigo": "088",
+          "ref_completa": "088",
+          "status": "Disponível",
+          "chambres": "1 ch.",
+          "surface": "48,42 m²",
+          "preco": "484 563 €"
+        },
+        "090": {
+          "codigo": "090",
+          "ref_completa": "090 - réservé",
+          "status": "Reservado",
+          "chambres": "4 ch.",
+          "surface": "115,43 m²",
+          "preco": "291 147 €"
+        },
+        "093": {
+          "codigo": "093",
+          "ref_completa": "093",
+          "status": "Disponível",
+          "chambres": "4 ch.",
+          "surface": "117,10 m²",
+          "preco": "476 745 €"
+        },
+        "094": {
+          "codigo": "094",
+          "ref_completa": "094",
+          "status": "Disponível",
+          "chambres": "1 ch.",
+          "surface": "88,12 m²",
+          "preco": "476 745 €"
+        },
+        "098": {
+          "codigo": "098",
+          "ref_completa": "098",
+          "status": "Disponível",
+          "chambres": "1 ch.",
+          "surface": "88,12 m²",
+          "preco": "492 706 €"
+        },
+        "100": {
+          "codigo": "100",
+          "ref_completa": "100",
+          "status": "Disponível",
+          "chambres": "1 ch.",
+          "surface": "95,46 m²",
+          "preco": "392 710 €"
+        },
+        "102": {
+          "codigo": "102",
+          "ref_completa": "102 - réservé",
+          "status": "Reservado",
+          "chambres": "1 ch.",
+          "surface": "88,81 m²",
+          "preco": "540 405 €"
+        },
+        "107": {
+          "codigo": "107",
+          "ref_completa": "107",
+          "status": "Disponível",
+          "chambres": "2 ch.",
+          "surface": "95,46 m²",
+          "preco": "479 088 €"
+        },
+        "108": {
+          "codigo": "108",
+          "ref_completa": "108",
+          "status": "Disponível",
+          "chambres": "2 ch.",
+          "surface": "88,12 m²",
+          "preco": "394 840 €"
+        },
+        "112": {
+          "codigo": "112",
+          "ref_completa": "112",
+          "status": "Disponível",
+          "chambres": "2 ch.",
+          "surface": "77,21 m²",
+          "preco": "419 824 €"
+        },
+        "114": {
+          "codigo": "114",
+          "ref_completa": "114",
+          "status": "Disponível",
+          "chambres": "2 ch.",
+          "surface": "88,81 m²",
+          "preco": "467 969 €"
+        },
+        "115": {
+          "codigo": "115",
+          "ref_completa": "115 - réservé",
+          "status": "Reservado",
+          "chambres": "3 ch.",
+          "surface": "63,95 m²",
+          "preco": "384 246 €"
+        },
+        "116": {
+          "codigo": "116",
+          "ref_completa": "116 - réservé",
+          "status": "Reservado",
+          "chambres": "3 ch.",
+          "surface": "67,93 m²",
+          "preco": "419 824 €"
+        },
+        "118": {
+          "codigo": "118",
+          "ref_completa": "118",
+          "status": "Disponível",
+          "chambres": "3 ch.",
+          "surface": "89,85 m²",
+          "preco": "384 246 €"
+        },
+        "119": {
+          "codigo": "119",
+          "ref_completa": "119",
+          "status": "Disponível",
+          "chambres": "3 ch.",
+          "surface": "67,93 m²",
+          "preco": "511 282 €"
+        },
+        "081": {
+          "codigo": "081",
+          "ref_completa": "081 - réservé",
+          "status": "Reservado",
+          "chambres": "3 ch.",
+          "surface": "96,44 m²",
+          "preco": "484 563 €"
+        },
+        "086": {
+          "codigo": "086",
+          "ref_completa": "086 - réservé",
+          "status": "Reservado",
+          "chambres": "3 ch.",
+          "surface": "95,48 m²",
+          "preco": "511 282 €"
+        },
+        "089": {
+          "codigo": "089",
+          "ref_completa": "089 - réservé",
+          "status": "Reservado",
+          "chambres": "3 ch.",
+          "surface": "96,44 m²",
+          "preco": "590 349 €"
+        },
+        "091": {
+          "codigo": "091",
+          "ref_completa": "091 - réservé",
+          "status": "Reservado",
+          "chambres": "2 ch.",
+          "surface": "90,98 m²",
+          "preco": "458 936 €"
+        },
+        "092": {
+          "codigo": "092",
+          "ref_completa": "092 - réservé",
+          "status": "Reservado",
+          "chambres": "2 ch.",
+          "surface": "90,55 m²",
+          "preco": "392 710 €"
+        },
+        "095": {
+          "codigo": "095",
+          "ref_completa": "095 - réservé",
+          "status": "Reservado",
+          "chambres": "1 ch.",
+          "surface": "77,21 m²",
+          "preco": "331 686 €"
+        },
+        "096": {
+          "codigo": "096",
+          "ref_completa": "096 - réservé",
+          "status": "Reservado",
+          "chambres": "1 ch.",
+          "surface": "59,95 m²",
+          "preco": "492 689 €"
+        },
+        "097": {
+          "codigo": "097",
+          "ref_completa": "097 - réservé",
+          "status": "Reservado",
+          "chambres": "1 ch.",
+          "surface": "95,46 m²",
+          "preco": "537 263 €"
+        },
+        "099": {
+          "codigo": "099",
+          "ref_completa": "099 - réservé",
+          "status": "Reservado",
+          "chambres": "1 ch.",
+          "surface": "104,55 m²",
+          "preco": "331 686 €"
+        },
+        "101": {
+          "codigo": "101",
+          "ref_completa": "101 - réservé",
+          "status": "Reservado",
+          "chambres": "1 ch.",
+          "surface": "100,53 m²",
+          "preco": "458 937 €"
+        },
+        "103": {
+          "codigo": "103",
+          "ref_completa": "103 - réservé",
+          "status": "Reservado",
+          "chambres": "1 ch.",
+          "surface": "89,32 m²",
+          "preco": "479 088 €"
+        },
+        "104": {
+          "codigo": "104",
+          "ref_completa": "104 - réservé",
+          "status": "Reservado",
+          "chambres": "1 ch.",
+          "surface": "99,95 m²",
+          "preco": "394 840 €"
+        },
+        "105": {
+          "codigo": "105",
+          "ref_completa": "105 - réservé",
+          "status": "Reservado",
+          "chambres": "2 ch.",
+          "surface": "77,21 m²",
+          "preco": "333 370 €"
+        },
+        "106": {
+          "codigo": "106",
+          "ref_completa": "106 - réservé",
+          "status": "Reservado",
+          "chambres": "2 ch.",
+          "surface": "59,95 m²",
+          "preco": "540 403 €"
+        },
+        "109": {
+          "codigo": "109",
+          "ref_completa": "109 - réservé",
+          "status": "Reservado",
+          "chambres": "2 ch.",
+          "surface": "104,55 m²",
+          "preco": "494 429 €"
+        },
+        "110": {
+          "codigo": "110",
+          "ref_completa": "110 - réservé",
+          "status": "Reservado",
+          "chambres": "2 ch.",
+          "surface": "95,46 m²",
+          "preco": "333 370 €"
+        },
+        "111": {
+          "codigo": "111",
+          "ref_completa": "111 - réservé",
+          "status": "Reservado",
+          "chambres": "2 ch.",
+          "surface": "59,95 m²",
+          "preco": "490 303 €"
+        },
+        "113": {
+          "codigo": "113",
+          "ref_completa": "113 - réservé",
+          "status": "Reservado",
+          "chambres": "2 ch.",
+          "surface": "100,53 m²",
+          "preco": "364 891 €"
+        },
+        "117": {
+          "codigo": "117",
+          "ref_completa": "117 - réservé",
+          "status": "Reservado",
+          "chambres": "3 ch.",
+          "surface": "78,86 m²",
+          "preco": "300 705 €"
+        },
+        "120": {
+          "codigo": "120",
+          "ref_completa": "120 - réservé",
+          "status": "Reservado",
+          "chambres": "3 ch.",
+          "surface": "63,95 m²",
+          "preco": "550 877 €"
+        },
+        "124": {
+          "codigo": "124",
+          "ref_completa": "124 - réservé",
+          "status": "Reservado",
+          "chambres": "3 ch.",
+          "surface": "94,20 m²",
+          "preco": "486 272 €"
+        },
+        "125": {
+          "codigo": "125",
+          "ref_completa": "125 - réservé",
+          "status": "Reservado",
+          "chambres": "3 ch.",
+          "surface": "85,26 m²",
+          "preco": "535 542 €"
+        },
+        "126": {
+          "codigo": "126",
+          "ref_completa": "126 - réservé",
+          "status": "Reservado",
+          "chambres": "3 ch.",
+          "surface": "88,05 m²",
+          "preco": "309 764 €"
+        },
+        "127": {
+          "codigo": "127",
+          "ref_completa": "127 - réservé",
+          "status": "Reservado",
+          "chambres": "3 ch.",
+          "surface": "60,91 m²",
+          "preco": "Prix de vente avec participation financière : prix à payer par l’acquéreur sous condition de respecter les critères d’éligibilité pour acquérir un logement abordable. Un certificat d’éligibilité à la vente abordable émis par le service des Aides au Logement fera foi dans le dossier de candidature. Remboursement TVA 50.000 € déduit."
+        }
+      }
+    },
+    "Maisons unifamiliales à Esch-sur-Alzette": {
+      "url": "https://snhbm.lu/projets/vente/bien/esch-sur-alzette-mu/",
+      "imoveis": {
+        "IH3564": {
+          "codigo": "IH3564",
+          "ref_completa": "IH3564",
+          "status": "Disponível",
+          "chambres": "4 ch.",
+          "surface": "134,84 m²",
+          "preco": "558 632 €"
+        },
+        "IH3577": {
+          "codigo": "IH3577",
+          "ref_completa": "IH3577",
+          "status": "Disponível",
+          "chambres": "4 ch.",
+          "surface": "135,42 m²",
+          "preco": "539 765 €"
+        },
+        "IH3566": {
+          "codigo": "IH3566",
+          "ref_completa": "IH3566 - réservé",
+          "status": "Reservado",
+          "chambres": "4 ch.",
+          "surface": "134,84 m²",
+          "preco": "418 980 €"
+        },
+        "IH3561": {
+          "codigo": "IH3561",
+          "ref_completa": "IH3561 - vendu",
+          "status": "Vendido",
+          "chambres": "3 ch.",
+          "surface": "104,48 m²",
+          "preco": "539 765 €"
+        },
+        "IH3562": {
+          "codigo": "IH3562",
+          "ref_completa": "IH3562 - vendu",
+          "status": "Vendido",
+          "chambres": "4 ch.",
+          "surface": "134,84 m²",
+          "preco": "539 765 €"
+        },
+        "IH3563": {
+          "codigo": "IH3563",
+          "ref_completa": "IH3563 - vendu",
+          "status": "Vendido",
+          "chambres": "4 ch.",
+          "surface": "134,84 m²",
+          "preco": "539 765 €"
+        },
+        "IH3565": {
+          "codigo": "IH3565",
+          "ref_completa": "IH3565 - vendu",
+          "status": "Vendido",
+          "chambres": "4 ch.",
+          "surface": "134,84 m²",
+          "preco": "539 765 €"
+        },
+        "IH3567": {
+          "codigo": "IH3567",
+          "ref_completa": "IH3567 - vendu",
+          "status": "Vendido",
+          "chambres": "4 ch.",
+          "surface": "134,84 m²",
+          "preco": "539 765 €"
+        },
+        "IH3568": {
+          "codigo": "IH3568",
+          "ref_completa": "IH3568 - vendu",
+          "status": "Vendido",
+          "chambres": "4 ch.",
+          "surface": "134,84 m²",
+          "preco": "539 765 €"
+        },
+        "IH3569": {
+          "codigo": "IH3569",
+          "ref_completa": "IH3569 - vendu",
+          "status": "Vendido",
+          "chambres": "4 ch.",
+          "surface": "134,84 m²",
+          "preco": "539 765 €"
+        },
+        "IH3570": {
+          "codigo": "IH3570",
+          "ref_completa": "IH3570 - vendu",
+          "status": "Vendido",
+          "chambres": "4 ch.",
+          "surface": "134,84 m²",
+          "preco": "539 765 €"
+        },
+        "IH3571": {
+          "codigo": "IH3571",
+          "ref_completa": "IH3571 - vendu",
+          "status": "Vendido",
+          "chambres": "4 ch.",
+          "surface": "134,84 m²",
+          "preco": "539 765 €"
+        },
+        "IH3572": {
+          "codigo": "IH3572",
+          "ref_completa": "IH3572 - vendu",
+          "status": "Vendido",
+          "chambres": "3 ch.",
+          "surface": "134,84 m²",
+          "preco": "465 289 €"
+        },
+        "IH3573": {
+          "codigo": "IH3573",
+          "ref_completa": "IH3573 - vendu",
+          "status": "Vendido",
+          "chambres": "3 ch.",
+          "surface": "116,12 m²",
+          "preco": "418 592 €"
+        },
+        "IH3574": {
+          "codigo": "IH3574",
+          "ref_completa": "IH3574 - vendu",
+          "status": "Vendido",
+          "chambres": "3 ch.",
+          "surface": "100,22 m²",
+          "preco": "558 632 €"
+        },
+        "IH3575": {
+          "codigo": "IH3575",
+          "ref_completa": "IH3575 - vendu",
+          "status": "Vendido",
+          "chambres": "4 ch.",
+          "surface": "135,42 m²",
+          "preco": "558 632 €"
+        },
+        "IH3576": {
+          "codigo": "IH3576",
+          "ref_completa": "IH3576 - vendu",
+          "status": "Vendido",
+          "chambres": "4 ch.",
+          "surface": "135,42 m²",
+          "preco": "558 632 €"
+        },
+        "IH3578": {
+          "codigo": "IH3578",
+          "ref_completa": "IH3578 - vendu",
+          "status": "Vendido",
+          "chambres": "4 ch.",
+          "surface": "135,42 m²",
+          "preco": "558 632 €"
+        },
+        "IH3579": {
+          "codigo": "IH3579",
+          "ref_completa": "IH3579 - vendu",
+          "status": "Vendido",
+          "chambres": "4 ch.",
+          "surface": "135,42 m²",
+          "preco": "558 632 €"
+        },
+        "IH3580": {
+          "codigo": "IH3580",
+          "ref_completa": "IH3580 - vendu",
+          "status": "Vendido",
+          "chambres": "4 ch.",
+          "surface": "135,42 m²",
+          "preco": "558 632 €"
+        },
+        "IH3581": {
+          "codigo": "IH3581",
+          "ref_completa": "IH3581 - vendu",
+          "status": "Vendido",
+          "chambres": "4 ch.",
+          "surface": "135,42 m²",
+          "preco": "569 971 €"
+        },
+        "IH3582": {
+          "codigo": "IH3582",
+          "ref_completa": "IH3582 - vendu",
+          "status": "Vendido",
+          "chambres": "4 ch.",
+          "surface": "138,27 m²",
+          "preco": "546 578 €"
+        },
+        "IH3583": {
+          "codigo": "IH3583",
+          "ref_completa": "IH3583 - vendu",
+          "status": "Vendido",
+          "chambres": "4 ch.",
+          "surface": "132,39 m²",
+          "preco": "Prix de vente avec participation financière : prix à payer par l’acquéreur sous condition de respecter les critères d’éligibilité pour acquérir un logement abordable. Un certificat d’éligibilité à la vente abordable émis par le service des Aides au Logement fera foi dans le dossier de candidature. Remboursement TVA 50.000 € déduit."
+        }
+      }
+    },
+    "Appartements à Elmen": {
+      "url": "https://snhbm.lu/projets/vente/bien/rev-ke2-app/",
+      "imoveis": {
+        "002": {
+          "codigo": "002",
+          "ref_completa": "002 - vendu",
+          "status": "Vendido",
+          "chambres": "2 ch.",
+          "surface": "83,88 m²",
+          "preco": "537 825 €"
+        },
+        "001": {
+          "codigo": "001",
+          "ref_completa": "001 - vendu",
+          "status": "Vendido",
+          "chambres": "2 ch.",
+          "surface": "91,76 m²",
+          "preco": "423 992 €"
+        },
+        "009": {
+          "codigo": "009",
+          "ref_completa": "009 - vendu",
+          "status": "Vendido",
+          "chambres": "1 ch.",
+          "surface": "108,64 m²",
+          "preco": "527 364 €"
+        },
+        "010": {
+          "codigo": "010",
+          "ref_completa": "010 - vendu",
+          "status": "Vendido",
+          "chambres": "1 ch.",
+          "surface": "83,88 m²",
+          "preco": "541 920 €"
+        },
+        "011": {
+          "codigo": "011",
+          "ref_completa": "011 - vendu",
+          "status": "Vendido",
+          "chambres": "2 ch.",
+          "surface": "108,64 m²",
+          "preco": "530 289 €"
+        },
+        "012": {
+          "codigo": "012",
+          "ref_completa": "012 - vendu",
+          "status": "Vendido",
+          "chambres": "2 ch.",
+          "surface": "83,88 m²",
+          "preco": "Prix de vente avec participation financière : prix à payer par l’acquéreur sous condition de respecter les critères d’éligibilité pour acquérir un logement abordable. Un certificat d’éligibilité à la vente abordable émis par le service des Aides au Logement fera foi dans le dossier de candidature. Remboursement TVA 50.000 € déduit."
+        }
+      }
+    },
+    "Appartement à Contern": {
+      "url": "https://snhbm.lu/projets/vente/bien/rev-ih3294-088/",
+      "imoveis": {
+        "2021": {
+          "codigo": "2021",
+          "ref_completa": "2021",
+          "status": "Disponível",
+          "chambres": "N/D",
+          "surface": "N/D",
+          "preco": "N/D"
+        },
+        "088": {
+          "codigo": "088",
+          "ref_completa": "088 - réservé",
+          "status": "Reservado",
+          "chambres": "2 ch.",
+          "surface": "99 m²",
+          "preco": "471 294 €"
+        }
+      }
+    },
+    "Appartement à Luxembourg-Kirchberg": {
+      "url": "https://snhbm.lu/projets/vente/bien/rev-ih2867-183/",
+      "imoveis": {
+        "2021": {
+          "codigo": "2021",
+          "ref_completa": "2021",
+          "status": "Disponível",
+          "chambres": "N/D",
+          "surface": "N/D",
+          "preco": "N/D"
+        },
+        "183": {
+          "codigo": "183",
+          "ref_completa": "183 - réservé",
+          "status": "Reservado",
+          "chambres": "2 ch.",
+          "surface": "96,91 m²",
+          "preco": "485 929 €"
+        }
+      }
+    }
+  },
   "historico": []
 }
