@@ -1,48 +1,5 @@
 {
-  "ultima_atualizacao": "13/08/2026 14:53",
-  "dados": {
-    "Projets": {
-      "url": "https://snhbm.lu/projets/",
-      "apartamentos": {
-        "500": "Disponível",
-        "1919": "Disponível",
-        "TVA": "Disponível",
-        "RCS": "Disponível",
-        "FAQ": "Disponível",
-        "1852": "Disponível",
-        "2026": "Disponível",
-        "CDN": "Disponível"
-      }
-    },
-    "Location": {
-      "url": "https://snhbm.lu/projets/location/",
-      "apartamentos": {
-        "SNHBM": "Disponível",
-        "2008": "Disponível",
-        "500": "Disponível",
-        "RENLA": "Disponível",
-        "1919": "Disponível",
-        "TVA": "Disponível",
-        "RCS": "Disponível",
-        "FAQ": "Disponível",
-        "1852": "Disponível",
-        "2026": "Disponível",
-        "CDN": "Disponível"
-      }
-    },
-    "En savoir +": {
-      "url": "https://snhbm.lu/projets/personnalisation/",
-      "apartamentos": {
-        "SNHBM": "Disponível",
-        "1919": "Disponível",
-        "TVA": "Disponível",
-        "RCS": "Disponível",
-        "FAQ": "Disponível",
-        "1852": "Disponível",
-        "2026": "Disponível",
-        "CDN": "Disponível"
-      }
-    }
-  },
+  "ultima_atualizacao": "13/08/2026 15:05",
+  "dados": {},
   "historico": []
 }
