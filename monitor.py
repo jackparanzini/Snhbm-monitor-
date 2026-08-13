@@ -5,98 +5,100 @@ from datetime import datetime
 import requests
 from bs4 import BeautifulSoup
 
-BASE_URL = "https://snhbm.lu/projets/vente/"
+# Lista exata com os 9 projetos fornecidos
+URLS_PROJETOS = [
+    "https://snhbm.lu/projets/vente/bien/rev-ke2-mu/",
+    "https://snhbm.lu/projets/vente/bien/rev-ih3559-023/",
+    "https://snhbm.lu/projets/vente/bien/ae14-4-5/",
+    "https://snhbm.lu/projets/vente/bien/esch-sur-alzette-mu/",
+    "https://snhbm.lu/projets/vente/bien/rev-ke2-app/",
+    "https://snhbm.lu/projets/vente/bien/rev-ih3298-094/",
+    "https://snhbm.lu/projets/vente/bien/rev-ih2861-133/",
+    "https://snhbm.lu/projets/vente/bien/rev-ih2867-183/",
+    "https://snhbm.lu/projets/vente/bien/rev-ih3294-088/"
+]
+
 DATA_FILE = "estado_anterior.json"
 
-def obter_projetos():
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
-    try:
-        response = requests.get(BASE_URL, headers=headers, timeout=15)
-        soup = BeautifulSoup(response.content, "html.parser")
-        
-        projetos = []
-        for link in soup.find_all("a", href=True):
-            url = link["href"]
-            if "/projets/vente/bien/" in url or "/bien/" in url:
-                if url.startswith("/"):
-                    url = "https://snhbm.lu" + url
-                if not any(p["url"] == url for p in projetos):
-                    nome = link.text.strip() or url.split("/")[-2].replace("-", " ").title()
-                    projetos.append({"nome": nome, "url": url})
-        return projetos
-    except Exception as e:
-        print(f"Erro ao buscar lista de projetos: {e}")
-        return []
-
-def extrair_imoveis_detalhados(url_projeto):
+def extrair_dados_projeto(url):
     headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
     imoveis = {}
+    
+    # Nome padrão baseado no link caso a página falhe ao ler o h1
+    nome_projeto = url.rstrip("/").split("/")[-1].replace("-", " ").title()
+
     try:
-        response = requests.get(url_projeto, headers=headers, timeout=15)
+        response = requests.get(url, headers=headers, timeout=15)
+        if response.status_code != 200:
+            return nome_projeto, imoveis
+
         soup = BeautifulSoup(response.content, "html.parser")
-        texto_pagina = soup.get_text("\n")
         
-        # Procura por padrões de referência como IH3055, IH3059 - réservé, IH3061 - vendu
-        padrao_ref = re.compile(r'\b([A-Z0-9]{3,8})(?:\s*-\s*(réservé|vendu))?\b', re.IGNORECASE)
-        
-        # Divide a página por blocos de texto
-        linhas = [l.strip() for l in texto_pagina.split('\n') if l.strip()]
-        
+        # Tenta pegar o nome oficial do projeto
+        h1 = soup.find("h1")
+        if h1 and h1.text.strip():
+            nome_projeto = h1.text.strip()
+
+        texto = soup.get_text("\n")
+        linhas = [l.strip() for l in texto.split("\n") if l.strip()]
+
+        # Padrão de referência (ex: IH3055, IH3059 - réservé, IH3061 - vendu)
+        ref_pattern = re.compile(r'^([A-Z0-9]{2,12})(?:\s*-\s*(réservé|vendu))?$', re.IGNORECASE)
+
         i = 0
         while i < len(linhas):
             linha = linhas[i]
-            match = padrao_ref.match(linha)
-            
-            # Identifica se a linha é o início de um imóvel (ex: IH3055, IH3059 - réservé)
-            if match and len(linha) <= 25 and any(char.isdigit() for char in linha):
+            match = ref_pattern.match(linha)
+
+            if match and any(c.isdigit() for c in linha) and len(linha) <= 30:
                 ref_base = match.group(1).upper()
                 sufixo = (match.group(2) or "").lower()
-                
+
+                # Status conforme sufixo da referência
                 if "vendu" in sufixo or "vendu" in linha.lower():
                     status = "Vendido"
                 elif "reserv" in sufixo or "réservé" in linha.lower():
                     status = "Reservado"
                 else:
                     status = "Disponível"
-                
-                # Coleta detalhes dos próximos elementos
+
                 chambres = "N/D"
                 surface = "N/D"
                 preco = "N/D"
-                
-                # Varre as próximas 15 linhas buscando características
-                for j in range(i + 1, min(i + 20, len(linhas))):
-                    l_sub = linhas[j]
-                    if "m²" in l_sub and surface == "N/D":
-                        surface = l_sub
-                    elif re.match(r'^\d+$', l_sub) and chambres == "N/D" and int(l_sub) <= 10:
-                        chambres = l_sub
-                    elif "€" in l_sub:
-                        preco = l_sub  # Atualiza com o valor em Euros encontrado
-                
+
+                # Varre as linhas seguintes para capturar características
+                for j in range(i + 1, min(i + 22, len(linhas))):
+                    item = linhas[j]
+                    if "m²" in item and surface == "N/D":
+                        surface = item
+                    elif re.match(r'^[1-9]$', item) and chambres == "N/D":
+                        chambres = f"{item} ch."
+                    elif "€" in item:
+                        preco = item
+
                 imoveis[ref_base] = {
                     "codigo": ref_base,
+                    "ref_completa": linha,
                     "status": status,
                     "chambres": chambres,
                     "surface": surface,
                     "preco": preco
                 }
             i += 1
-            
+
     except Exception as e:
-        print(f"Erro ao extrair imóveis de {url_projeto}: {e}")
-        
-    return imoveis
+        print(f"Erro ao processar {url}: {e}")
+
+    return nome_projeto, imoveis
 
 def executar():
-    projetos = obter_projetos()
     estado_atual = {}
 
-    for proj in projetos:
-        imoveis = extrair_imoveis_detalhados(proj["url"])
+    for url in URLS_PROJETOS:
+        nome_proj, imoveis = extrair_dados_projeto(url)
         if imoveis:
-            estado_atual[proj["nome"]] = {
-                "url": proj["url"],
+            estado_atual[nome_proj] = {
+                "url": url,
                 "imoveis": imoveis
             }
 
