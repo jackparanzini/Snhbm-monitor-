@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "08/09/2026 07:07",
+  "ultima_atualizacao": "08/09/2026 14:04",
   "dados": {
     "Maisons unifamiliales à Elmen": {
       "url": "https://snhbm.lu/projets/vente/bien/rev-ke2-mu/",
@@ -324,6 +324,14 @@
           "status": "Disponível",
           "chambres": "1 ch.",
           "surface": "48,42 m²",
+          "preco": "278 132 €"
+        },
+        "083": {
+          "codigo": "083",
+          "ref_completa": "083",
+          "status": "Disponível",
+          "chambres": "1 ch.",
+          "surface": "49,31 m²",
           "preco": "295 959 €"
         },
         "087": {
@@ -349,6 +357,14 @@
           "chambres": "4 ch.",
           "surface": "115,43 m²",
           "preco": "460 428 €"
+        },
+        "092": {
+          "codigo": "092",
+          "ref_completa": "092",
+          "status": "Disponível",
+          "chambres": "2 ch.",
+          "surface": "90,55 m²",
+          "preco": "537 263 €"
         },
         "093": {
           "codigo": "093",
@@ -398,37 +414,13 @@
           "surface": "88,81 m²",
           "preco": "540 405 €"
         },
-        "107": {
-          "codigo": "107",
-          "ref_completa": "107",
-          "status": "Disponível",
-          "chambres": "2 ch.",
-          "surface": "95,46 m²",
-          "preco": "479 088 €"
-        },
         "108": {
           "codigo": "108",
           "ref_completa": "108",
           "status": "Disponível",
           "chambres": "2 ch.",
           "surface": "88,12 m²",
-          "preco": "394 840 €"
-        },
-        "112": {
-          "codigo": "112",
-          "ref_completa": "112",
-          "status": "Disponível",
-          "chambres": "2 ch.",
-          "surface": "77,21 m²",
-          "preco": "460 572 €"
-        },
-        "114": {
-          "codigo": "114",
-          "ref_completa": "114 - réservé",
-          "status": "Reservado",
-          "chambres": "3 ch.",
-          "surface": "78,86 m²",
-          "preco": "364 891 €"
+          "preco": "514 873 €"
         },
         "116": {
           "codigo": "116",
@@ -452,14 +444,6 @@
           "status": "Reservado",
           "chambres": "3 ch.",
           "surface": "96,44 m²",
-          "preco": "278 132 €"
-        },
-        "083": {
-          "codigo": "083",
-          "ref_completa": "083 - réservé",
-          "status": "Reservado",
-          "chambres": "1 ch.",
-          "surface": "49,31 m²",
           "preco": "484 563 €"
         },
         "086": {
@@ -484,14 +468,6 @@
           "status": "Reservado",
           "chambres": "2 ch.",
           "surface": "90,98 m²",
-          "preco": "458 936 €"
-        },
-        "092": {
-          "codigo": "092",
-          "ref_completa": "092 - réservé",
-          "status": "Reservado",
-          "chambres": "2 ch.",
-          "surface": "90,55 m²",
           "preco": "392 710 €"
         },
         "095": {
@@ -556,6 +532,14 @@
           "status": "Reservado",
           "chambres": "2 ch.",
           "surface": "59,95 m²",
+          "preco": "494 429 €"
+        },
+        "107": {
+          "codigo": "107",
+          "ref_completa": "107 - réservé",
+          "status": "Reservado",
+          "chambres": "2 ch.",
+          "surface": "95,46 m²",
           "preco": "540 403 €"
         },
         "109": {
@@ -580,6 +564,14 @@
           "status": "Reservado",
           "chambres": "2 ch.",
           "surface": "59,95 m²",
+          "preco": "394 840 €"
+        },
+        "112": {
+          "codigo": "112",
+          "ref_completa": "112 - réservé",
+          "status": "Reservado",
+          "chambres": "2 ch.",
+          "surface": "77,21 m²",
           "preco": "490 303 €"
         },
         "113": {
@@ -589,6 +581,14 @@
           "chambres": "2 ch.",
           "surface": "100,53 m²",
           "preco": "419 824 €"
+        },
+        "114": {
+          "codigo": "114",
+          "ref_completa": "114 - réservé",
+          "status": "Reservado",
+          "chambres": "2 ch.",
+          "surface": "88,81 m²",
+          "preco": "364 891 €"
         },
         "115": {
           "codigo": "115",
@@ -898,27 +898,6 @@
         }
       }
     },
-    "Appartement à Contern": {
-      "url": "https://snhbm.lu/projets/vente/bien/rev-ih3294-088/",
-      "imoveis": {
-        "2021": {
-          "codigo": "2021",
-          "ref_completa": "2021",
-          "status": "Disponível",
-          "chambres": "N/D",
-          "surface": "N/D",
-          "preco": "N/D"
-        },
-        "088": {
-          "codigo": "088",
-          "ref_completa": "088 - réservé",
-          "status": "Reservado",
-          "chambres": "2 ch.",
-          "surface": "99 m²",
-          "preco": "471 294 €"
-        }
-      }
-    },
     "Appartement à Luxembourg-Kirchberg": {
       "url": "https://snhbm.lu/projets/vente/bien/rev-ih2867-183/",
       "imoveis": {
@@ -939,9 +918,66 @@
           "preco": "485 929 €"
         }
       }
+    },
+    "Appartement à Contern": {
+      "url": "https://snhbm.lu/projets/vente/bien/rev-ih3294-088/",
+      "imoveis": {
+        "2021": {
+          "codigo": "2021",
+          "ref_completa": "2021",
+          "status": "Disponível",
+          "chambres": "N/D",
+          "surface": "N/D",
+          "preco": "N/D"
+        },
+        "088": {
+          "codigo": "088",
+          "ref_completa": "088 - réservé",
+          "status": "Reservado",
+          "chambres": "2 ch.",
+          "surface": "99 m²",
+          "preco": "471 294 €"
+        }
+      }
     }
   },
   "historico": [
+    {
+      "data": "08/09/2026 14:04",
+      "projeto": "Appartements à Luxembourg-Bonnevoie",
+      "imovel": "083",
+      "de": "Reservado",
+      "para": "Disponível",
+      "preco": "295 959 €",
+      "chambres": "1 ch."
+    },
+    {
+      "data": "08/09/2026 14:04",
+      "projeto": "Appartements à Luxembourg-Bonnevoie",
+      "imovel": "092",
+      "de": "Reservado",
+      "para": "Disponível",
+      "preco": "537 263 €",
+      "chambres": "2 ch."
+    },
+    {
+      "data": "08/09/2026 14:04",
+      "projeto": "Appartements à Luxembourg-Bonnevoie",
+      "imovel": "107",
+      "de": "Disponível",
+      "para": "Reservado",
+      "preco": "540 403 €",
+      "chambres": "2 ch."
+    },
+    {
+      "data": "08/09/2026 14:04",
+      "projeto": "Appartements à Luxembourg-Bonnevoie",
+      "imovel": "112",
+      "de": "Disponível",
+      "para": "Reservado",
+      "preco": "490 303 €",
+      "chambres": "2 ch."
+    },
     {
       "data": "18/08/2026 15:07",
       "projeto": "Maisons unifamiliales à Elmen",
