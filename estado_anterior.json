@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "06/10/2026 13:49",
+  "ultima_atualizacao": "06/10/2026 19:12",
   "dados": {
     "Maisons unifamiliales à Elmen": {
       "url": "https://snhbm.lu/projets/vente/bien/rev-ke2-mu/",
@@ -895,48 +895,6 @@
           "chambres": "2 ch.",
           "surface": "83,88 m²",
           "preco": "Prix de vente avec participation financière : prix à payer par l’acquéreur sous condition de respecter les critères d’éligibilité pour acquérir un logement abordable. Un certificat d’éligibilité à la vente abordable émis par le service des Aides au Logement fera foi dans le dossier de candidature. Remboursement TVA 50.000 € déduit."
-        }
-      }
-    },
-    "Appartement à Luxembourg-Kirchberg": {
-      "url": "https://snhbm.lu/projets/vente/bien/rev-ih2867-183/",
-      "imoveis": {
-        "2021": {
-          "codigo": "2021",
-          "ref_completa": "2021",
-          "status": "Disponível",
-          "chambres": "N/D",
-          "surface": "N/D",
-          "preco": "N/D"
-        },
-        "183": {
-          "codigo": "183",
-          "ref_completa": "183 - réservé",
-          "status": "Reservado",
-          "chambres": "2 ch.",
-          "surface": "96,91 m²",
-          "preco": "485 929 €"
-        }
-      }
-    },
-    "Appartement à Contern": {
-      "url": "https://snhbm.lu/projets/vente/bien/rev-ih3294-088/",
-      "imoveis": {
-        "2021": {
-          "codigo": "2021",
-          "ref_completa": "2021",
-          "status": "Disponível",
-          "chambres": "N/D",
-          "surface": "N/D",
-          "preco": "N/D"
-        },
-        "088": {
-          "codigo": "088",
-          "ref_completa": "088 - réservé",
-          "status": "Reservado",
-          "chambres": "2 ch.",
-          "surface": "99 m²",
-          "preco": "471 294 €"
         }
       }
     }
