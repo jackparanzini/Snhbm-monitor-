@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "08/10/2026 19:33",
+  "ultima_atualizacao": "09/10/2026 14:01",
   "dados": {
     "Maisons unifamiliales à Elmen": {
       "url": "https://snhbm.lu/projets/vente/bien/rev-ke2-mu/",
@@ -318,6 +318,22 @@
     "Appartements à Luxembourg-Bonnevoie": {
       "url": "https://snhbm.lu/projets/vente/bien/ae14-4-5/",
       "imoveis": {
+        "086": {
+          "codigo": "086",
+          "ref_completa": "086",
+          "status": "Disponível",
+          "chambres": "3 ch.",
+          "surface": "95,48 m²",
+          "preco": "458 936 €"
+        },
+        "092": {
+          "codigo": "092",
+          "ref_completa": "092",
+          "status": "Disponível",
+          "chambres": "2 ch.",
+          "surface": "90,55 m²",
+          "preco": "537 263 €"
+        },
         "093": {
           "codigo": "093",
           "ref_completa": "093",
@@ -329,14 +345,6 @@
         "094": {
           "codigo": "094",
           "ref_completa": "094",
-          "status": "Disponível",
-          "chambres": "1 ch.",
-          "surface": "88,12 m²",
-          "preco": "476 745 €"
-        },
-        "098": {
-          "codigo": "098",
-          "ref_completa": "098",
           "status": "Disponível",
           "chambres": "1 ch.",
           "surface": "88,12 m²",
@@ -356,15 +364,7 @@
           "status": "Disponível",
           "chambres": "1 ch.",
           "surface": "95,46 m²",
-          "preco": "515 342 €"
-        },
-        "101": {
-          "codigo": "101",
-          "ref_completa": "101 - réservé",
-          "status": "Reservado",
-          "chambres": "1 ch.",
-          "surface": "59,95 m²",
-          "preco": "392 710 €"
+          "preco": "511 282 €"
         },
         "081": {
           "codigo": "081",
@@ -389,14 +389,6 @@
           "chambres": "1 ch.",
           "surface": "49,31 m²",
           "preco": "295 959 €"
-        },
-        "086": {
-          "codigo": "086",
-          "ref_completa": "086 - réservé",
-          "status": "Reservado",
-          "chambres": "3 ch.",
-          "surface": "95,48 m²",
-          "preco": "278 132 €"
         },
         "087": {
           "codigo": "087",
@@ -438,14 +430,6 @@
           "surface": "90,98 m²",
           "preco": "295 959 €"
         },
-        "092": {
-          "codigo": "092",
-          "ref_completa": "092 - réservé",
-          "status": "Reservado",
-          "chambres": "2 ch.",
-          "surface": "90,55 m²",
-          "preco": "392 710 €"
-        },
         "095": {
           "codigo": "095",
           "ref_completa": "095 - réservé",
@@ -468,7 +452,23 @@
           "status": "Reservado",
           "chambres": "1 ch.",
           "surface": "95,46 m²",
+          "preco": "476 745 €"
+        },
+        "098": {
+          "codigo": "098",
+          "ref_completa": "098 - réservé",
+          "status": "Reservado",
+          "chambres": "1 ch.",
+          "surface": "88,12 m²",
           "preco": "331 686 €"
+        },
+        "101": {
+          "codigo": "101",
+          "ref_completa": "101 - réservé",
+          "status": "Reservado",
+          "chambres": "1 ch.",
+          "surface": "100,53 m²",
+          "preco": "392 710 €"
         },
         "102": {
           "codigo": "102",
@@ -659,14 +659,6 @@
     "Maisons unifamiliales à Esch-sur-Alzette": {
       "url": "https://snhbm.lu/projets/vente/bien/esch-sur-alzette-mu/",
       "imoveis": {
-        "IH3577": {
-          "codigo": "IH3577",
-          "ref_completa": "IH3577",
-          "status": "Disponível",
-          "chambres": "4 ch.",
-          "surface": "135,42 m²",
-          "preco": "539 768 €"
-        },
         "IH3564": {
           "codigo": "IH3564",
           "ref_completa": "IH3564 - réservé",
@@ -681,6 +673,14 @@
           "status": "Reservado",
           "chambres": "4 ch.",
           "surface": "134,84 m²",
+          "preco": "558 632 €"
+        },
+        "IH3577": {
+          "codigo": "IH3577",
+          "ref_completa": "IH3577 - réservé",
+          "status": "Reservado",
+          "chambres": "4 ch.",
+          "surface": "135,42 m²",
           "preco": "418 980 €"
         },
         "IH3561": {
@@ -900,6 +900,42 @@
     }
   },
   "historico": [
+    {
+      "data": "09/10/2026 14:01",
+      "projeto": "Appartements à Luxembourg-Bonnevoie",
+      "imovel": "086",
+      "de": "Reservado",
+      "para": "Disponível",
+      "preco": "458 936 €",
+      "chambres": "3 ch."
+    },
+    {
+      "data": "09/10/2026 14:01",
+      "projeto": "Appartements à Luxembourg-Bonnevoie",
+      "imovel": "092",
+      "de": "Reservado",
+      "para": "Disponível",
+      "preco": "537 263 €",
+      "chambres": "2 ch."
+    },
+    {
+      "data": "09/10/2026 14:01",
+      "projeto": "Appartements à Luxembourg-Bonnevoie",
+      "imovel": "098",
+      "de": "Disponível",
+      "para": "Reservado",
+      "preco": "331 686 €",
+      "chambres": "1 ch."
+    },
+    {
+      "data": "09/10/2026 14:01",
+      "projeto": "Maisons unifamiliales à Esch-sur-Alzette",
+      "imovel": "IH3577",
+      "de": "Disponível",
+      "para": "Reservado",
+      "preco": "418 980 €",
+      "chambres": "4 ch."
+    },
     {
       "data": "28/09/2026 14:47",
       "projeto": "Maisons unifamiliales à Elmen",
