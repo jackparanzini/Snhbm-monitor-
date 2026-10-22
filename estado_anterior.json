@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "22/10/2026 12:41",
+  "ultima_atualizacao": "22/10/2026 18:12",
   "dados": {
     "Maisons unifamiliales à Elmen": {
       "url": "https://snhbm.lu/projets/vente/bien/rev-ke2-mu/",
@@ -83,27 +83,6 @@
           "chambres": "3 ch.",
           "surface": "122,89 m²",
           "preco": "Prix de vente avec participation financière : prix à payer par l’acquéreur sous condition de respecter les critères d’éligibilité pour acquérir un logement abordable. Un certificat d’éligibilité à la vente abordable émis par le service des Aides au Logement fera foi dans le dossier de candidature. Remboursement TVA 50.000 € déduit."
-        }
-      }
-    },
-    "Appartement à Esch-sur-Alzette": {
-      "url": "https://snhbm.lu/projets/vente/bien/rev-ih3559-023/",
-      "imoveis": {
-        "2026": {
-          "codigo": "2026",
-          "ref_completa": "2026",
-          "status": "Disponível",
-          "chambres": "2 ch.",
-          "surface": "N/D",
-          "preco": "Des emplacements de parkings sont disponibles à proximité. La résidence ALBI ne comprenant pas de garage sous-terrain, les acquéreurs ont la possibilité d’acquérir un emplacement auprès de la SNHBM conjointement avec l’appartement ; ceci, pour un supplément de 33 000 € TTC 17 %."
-        },
-        "023": {
-          "codigo": "023",
-          "ref_completa": "023 - réservé",
-          "status": "Reservado",
-          "chambres": "1 ch.",
-          "surface": "88 m²",
-          "preco": "419 405 €"
         }
       }
     },
