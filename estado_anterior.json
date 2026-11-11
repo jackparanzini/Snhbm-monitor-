@@ -1,16 +1,48 @@
 {
-  "ultima_atualizacao": "10/11/2026 20:38",
+  "ultima_atualizacao": "11/11/2026 14:50",
   "dados": {
     "Maisons unifamiliales à Elmen": {
       "url": "https://snhbm.lu/projets/vente/bien/rev-ke2-mu/",
       "imoveis": {
-        "IH3055": {
-          "codigo": "IH3055",
-          "ref_completa": "IH3055",
+        "IH3060": {
+          "codigo": "IH3060",
+          "ref_completa": "IH3060",
           "status": "Disponível",
           "chambres": "4 ch.",
-          "surface": "139,68 m²",
+          "surface": "139,97 m²",
           "preco": "942 997 €"
+        },
+        "T5": {
+          "codigo": "T5",
+          "ref_completa": "T5",
+          "status": "Disponível",
+          "chambres": "4 ch.",
+          "surface": "136,13 m²",
+          "preco": "666 302 €"
+        },
+        "IH3095": {
+          "codigo": "IH3095",
+          "ref_completa": "IH3095",
+          "status": "Disponível",
+          "chambres": "4 ch.",
+          "surface": "204,61 m²",
+          "preco": "667 362 €"
+        },
+        "T1": {
+          "codigo": "T1",
+          "ref_completa": "T1",
+          "status": "Disponível",
+          "chambres": "4 ch.",
+          "surface": "204,61 m²",
+          "preco": "667 362 €"
+        },
+        "IH3055": {
+          "codigo": "IH3055",
+          "ref_completa": "IH3055 - réservé",
+          "status": "Reservado",
+          "chambres": "4 ch.",
+          "surface": "139,68 m²",
+          "preco": "651 760 €"
         },
         "T9": {
           "codigo": "T9",
@@ -20,44 +52,12 @@
           "surface": "140,11 m²",
           "preco": "584 167 €"
         },
-        "IH3095": {
-          "codigo": "IH3095",
-          "ref_completa": "IH3095",
-          "status": "Disponível",
-          "chambres": "4 ch.",
-          "surface": "204,61 m²",
-          "preco": "651 760 €"
-        },
-        "T1": {
-          "codigo": "T1",
-          "ref_completa": "T1",
-          "status": "Disponível",
-          "chambres": "4 ch.",
-          "surface": "204,61 m²",
-          "preco": "651 760 €"
-        },
         "IH3056": {
           "codigo": "IH3056",
           "ref_completa": "IH3056 - réservé",
           "status": "Reservado",
           "chambres": "4 ch.",
           "surface": "136,13 m²",
-          "preco": "665 652 €"
-        },
-        "T5": {
-          "codigo": "T5",
-          "ref_completa": "T5",
-          "status": "Disponível",
-          "chambres": "4 ch.",
-          "surface": "139,97 m²",
-          "preco": "666 302 €"
-        },
-        "IH3060": {
-          "codigo": "IH3060",
-          "ref_completa": "IH3060 - réservé",
-          "status": "Reservado",
-          "chambres": "4 ch.",
-          "surface": "139,97 m²",
           "preco": "666 302 €"
         },
         "IH3097": {
@@ -70,8 +70,8 @@
         },
         "IH3102": {
           "codigo": "IH3102",
-          "ref_completa": "IH3102 - réservé",
-          "status": "Reservado",
+          "ref_completa": "IH3102 - vendu",
+          "status": "Vendido",
           "chambres": "3 ch.",
           "surface": "122,89 m²",
           "preco": "Prix de vente avec participation financière : prix à payer par l’acquéreur sous condition de respecter les critères d’éligibilité pour acquérir un logement abordable. Un certificat d’éligibilité à la vente abordable émis par le service des Aides au Logement fera foi dans le dossier de candidature. Remboursement TVA 50.000 € déduit."
@@ -95,6 +95,14 @@
           "status": "Disponível",
           "chambres": "3 ch.",
           "surface": "95,48 m²",
+          "preco": "277 397 €"
+        },
+        "088": {
+          "codigo": "088",
+          "ref_completa": "088",
+          "status": "Disponível",
+          "chambres": "1 ch.",
+          "surface": "48,42 m²",
           "preco": "511 282 €"
         },
         "089": {
@@ -119,6 +127,14 @@
           "status": "Disponível",
           "chambres": "1 ch.",
           "surface": "88,12 m²",
+          "preco": "331 686 €"
+        },
+        "096": {
+          "codigo": "096",
+          "ref_completa": "096",
+          "status": "Disponível",
+          "chambres": "1 ch.",
+          "surface": "59,95 m²",
           "preco": "537 263 €"
         },
         "099": {
@@ -145,20 +161,28 @@
           "surface": "88,81 m²",
           "preco": "540 405 €"
         },
+        "105": {
+          "codigo": "105",
+          "ref_completa": "105",
+          "status": "Disponível",
+          "chambres": "2 ch.",
+          "surface": "77,21 m²",
+          "preco": "302 655 €"
+        },
+        "116": {
+          "codigo": "116",
+          "ref_completa": "116 - vendu",
+          "status": "Vendido",
+          "chambres": "3 ch.",
+          "surface": "67,93 m²",
+          "preco": "Prix de vente avec participation financière : prix à payer par l’acquéreur sous condition de respecter les critères d’éligibilité pour acquérir un logement abordable. Un certificat d’éligibilité à la vente abordable émis par le service des Aides au Logement fera foi dans le dossier de candidature. Remboursement TVA 50.000 € déduit."
+        },
         "118": {
           "codigo": "118",
           "ref_completa": "118",
           "status": "Disponível",
           "chambres": "3 ch.",
           "surface": "89,85 m²",
-          "preco": "511 282 €"
-        },
-        "081": {
-          "codigo": "081",
-          "ref_completa": "081 - réservé",
-          "status": "Reservado",
-          "chambres": "3 ch.",
-          "surface": "96,44 m²",
           "preco": "277 397 €"
         },
         "082": {
@@ -183,14 +207,6 @@
           "status": "Reservado",
           "chambres": "1 ch.",
           "surface": "49,31 m²",
-          "preco": "277 397 €"
-        },
-        "088": {
-          "codigo": "088",
-          "ref_completa": "088 - réservé",
-          "status": "Reservado",
-          "chambres": "1 ch.",
-          "surface": "48,42 m²",
           "preco": "484 563 €"
         },
         "090": {
@@ -223,22 +239,6 @@
           "status": "Reservado",
           "chambres": "1 ch.",
           "surface": "77,21 m²",
-          "preco": "331 686 €"
-        },
-        "096": {
-          "codigo": "096",
-          "ref_completa": "096 - réservé",
-          "status": "Reservado",
-          "chambres": "1 ch.",
-          "surface": "59,95 m²",
-          "preco": "492 689 €"
-        },
-        "097": {
-          "codigo": "097",
-          "ref_completa": "097 - réservé",
-          "status": "Reservado",
-          "chambres": "1 ch.",
-          "surface": "95,46 m²",
           "preco": "476 745 €"
         },
         "098": {
@@ -263,31 +263,15 @@
           "status": "Reservado",
           "chambres": "1 ch.",
           "surface": "89,32 m²",
-          "preco": "479 088 €"
+          "preco": "512 067 €"
         },
         "104": {
           "codigo": "104",
-          "ref_completa": "104 - réservé",
-          "status": "Reservado",
-          "chambres": "1 ch.",
-          "surface": "99,95 m²",
-          "preco": "394 840 €"
-        },
-        "105": {
-          "codigo": "105",
-          "ref_completa": "105 - réservé",
-          "status": "Reservado",
+          "ref_completa": "104 - vendu",
+          "status": "Vendido",
           "chambres": "2 ch.",
-          "surface": "77,21 m²",
-          "preco": "302 655 €"
-        },
-        "106": {
-          "codigo": "106",
-          "ref_completa": "106 - réservé",
-          "status": "Reservado",
-          "chambres": "2 ch.",
-          "surface": "59,95 m²",
-          "preco": "494 429 €"
+          "surface": "88,12 m²",
+          "preco": "333 370 €"
         },
         "107": {
           "codigo": "107",
@@ -351,23 +335,15 @@
           "status": "Reservado",
           "chambres": "2 ch.",
           "surface": "88,81 m²",
-          "preco": "364 891 €"
+          "preco": "467 969 €"
         },
         "115": {
           "codigo": "115",
-          "ref_completa": "115 - réservé",
-          "status": "Reservado",
-          "chambres": "2 ch.",
-          "surface": "89,32 m²",
+          "ref_completa": "115 - vendu",
+          "status": "Vendido",
+          "chambres": "3 ch.",
+          "surface": "63,95 m²",
           "preco": "384 246 €"
-        },
-        "116": {
-          "codigo": "116",
-          "ref_completa": "116 - réservé",
-          "status": "Reservado",
-          "chambres": "2 ch.",
-          "surface": "99,95 m²",
-          "preco": "419 824 €"
         },
         "117": {
           "codigo": "117",
@@ -423,13 +399,45 @@
           "status": "Reservado",
           "chambres": "3 ch.",
           "surface": "60,91 m²",
-          "preco": "Prix de vente avec participation financière : prix à payer par l’acquéreur sous condition de respecter les critères d’éligibilité pour acquérir un logement abordable. Un certificat d’éligibilité à la vente abordable émis par le service des Aides au Logement fera foi dans le dossier de candidature. Remboursement TVA 50.000 € déduit."
+          "preco": "511 282 €"
+        },
+        "081": {
+          "codigo": "081",
+          "ref_completa": "081 - vendu",
+          "status": "Vendido",
+          "chambres": "3 ch.",
+          "surface": "96,44 m²",
+          "preco": "492 689 €"
+        },
+        "097": {
+          "codigo": "097",
+          "ref_completa": "097 - vendu",
+          "status": "Vendido",
+          "chambres": "1 ch.",
+          "surface": "95,46 m²",
+          "preco": "479 088 €"
+        },
+        "106": {
+          "codigo": "106",
+          "ref_completa": "106 - vendu",
+          "status": "Vendido",
+          "chambres": "2 ch.",
+          "surface": "59,95 m²",
+          "preco": "364 891 €"
         }
       }
     },
     "Maisons unifamiliales à Esch-sur-Alzette": {
       "url": "https://snhbm.lu/projets/vente/bien/esch-sur-alzette-mu/",
       "imoveis": {
+        "IH3577": {
+          "codigo": "IH3577",
+          "ref_completa": "IH3577",
+          "status": "Disponível",
+          "chambres": "4 ch.",
+          "surface": "135,42 m²",
+          "preco": "418 980 €"
+        },
         "IH3561": {
           "codigo": "IH3561",
           "ref_completa": "IH3561 - vendu",
@@ -511,6 +519,114 @@
     }
   },
   "historico": [
+    {
+      "data": "11/11/2026 14:50",
+      "projeto": "Maisons unifamiliales à Elmen",
+      "imovel": "IH3060",
+      "de": "Reservado",
+      "para": "Disponível",
+      "preco": "942 997 €",
+      "chambres": "4 ch."
+    },
+    {
+      "data": "11/11/2026 14:50",
+      "projeto": "Maisons unifamiliales à Elmen",
+      "imovel": "IH3055",
+      "de": "Disponível",
+      "para": "Reservado",
+      "preco": "651 760 €",
+      "chambres": "4 ch."
+    },
+    {
+      "data": "11/11/2026 14:50",
+      "projeto": "Maisons unifamiliales à Elmen",
+      "imovel": "IH3102",
+      "de": "Reservado",
+      "para": "Vendido",
+      "preco": "Prix de vente avec participation financière : prix à payer par l’acquéreur sous condition de respecter les critères d’éligibilité pour acquérir un logement abordable. Un certificat d’éligibilité à la vente abordable émis par le service des Aides au Logement fera foi dans le dossier de candidature. Remboursement TVA 50.000 € déduit.",
+      "chambres": "3 ch."
+    },
+    {
+      "data": "11/11/2026 14:50",
+      "projeto": "Appartements à Luxembourg-Bonnevoie",
+      "imovel": "088",
+      "de": "Reservado",
+      "para": "Disponível",
+      "preco": "511 282 €",
+      "chambres": "1 ch."
+    },
+    {
+      "data": "11/11/2026 14:50",
+      "projeto": "Appartements à Luxembourg-Bonnevoie",
+      "imovel": "096",
+      "de": "Reservado",
+      "para": "Disponível",
+      "preco": "537 263 €",
+      "chambres": "1 ch."
+    },
+    {
+      "data": "11/11/2026 14:50",
+      "projeto": "Appartements à Luxembourg-Bonnevoie",
+      "imovel": "105",
+      "de": "Reservado",
+      "para": "Disponível",
+      "preco": "302 655 €",
+      "chambres": "2 ch."
+    },
+    {
+      "data": "11/11/2026 14:50",
+      "projeto": "Appartements à Luxembourg-Bonnevoie",
+      "imovel": "116",
+      "de": "Reservado",
+      "para": "Vendido",
+      "preco": "Prix de vente avec participation financière : prix à payer par l’acquéreur sous condition de respecter les critères d’éligibilité pour acquérir un logement abordable. Un certificat d’éligibilité à la vente abordable émis par le service des Aides au Logement fera foi dans le dossier de candidature. Remboursement TVA 50.000 € déduit.",
+      "chambres": "3 ch."
+    },
+    {
+      "data": "11/11/2026 14:50",
+      "projeto": "Appartements à Luxembourg-Bonnevoie",
+      "imovel": "104",
+      "de": "Reservado",
+      "para": "Vendido",
+      "preco": "333 370 €",
+      "chambres": "2 ch."
+    },
+    {
+      "data": "11/11/2026 14:50",
+      "projeto": "Appartements à Luxembourg-Bonnevoie",
+      "imovel": "115",
+      "de": "Reservado",
+      "para": "Vendido",
+      "preco": "384 246 €",
+      "chambres": "3 ch."
+    },
+    {
+      "data": "11/11/2026 14:50",
+      "projeto": "Appartements à Luxembourg-Bonnevoie",
+      "imovel": "081",
+      "de": "Reservado",
+      "para": "Vendido",
+      "preco": "492 689 €",
+      "chambres": "3 ch."
+    },
+    {
+      "data": "11/11/2026 14:50",
+      "projeto": "Appartements à Luxembourg-Bonnevoie",
+      "imovel": "097",
+      "de": "Reservado",
+      "para": "Vendido",
+      "preco": "479 088 €",
+      "chambres": "1 ch."
+    },
+    {
+      "data": "11/11/2026 14:50",
+      "projeto": "Appartements à Luxembourg-Bonnevoie",
+      "imovel": "106",
+      "de": "Reservado",
+      "para": "Vendido",
+      "preco": "364 891 €",
+      "chambres": "2 ch."
+    },
     {
       "data": "05/11/2026 15:04",
       "projeto": "Appartements à Luxembourg-Bonnevoie",
@@ -672,87 +788,6 @@
       "para": "Disponível",
       "preco": "295 959 €",
       "chambres": "1 ch."
-    },
-    {
-      "data": "08/09/2026 14:04",
-      "projeto": "Appartements à Luxembourg-Bonnevoie",
-      "imovel": "092",
-      "de": "Reservado",
-      "para": "Disponível",
-      "preco": "537 263 €",
-      "chambres": "2 ch."
-    },
-    {
-      "data": "08/09/2026 14:04",
-      "projeto": "Appartements à Luxembourg-Bonnevoie",
-      "imovel": "107",
-      "de": "Disponível",
-      "para": "Reservado",
-      "preco": "540 403 €",
-      "chambres": "2 ch."
-    },
-    {
-      "data": "08/09/2026 14:04",
-      "projeto": "Appartements à Luxembourg-Bonnevoie",
-      "imovel": "112",
-      "de": "Disponível",
-      "para": "Reservado",
-      "preco": "490 303 €",
-      "chambres": "2 ch."
-    },
-    {
-      "data": "18/08/2026 15:07",
-      "projeto": "Maisons unifamiliales à Elmen",
-      "imovel": "IH3152",
-      "de": "Disponível",
-      "para": "Reservado",
-      "preco": "661 848 €",
-      "chambres": "4 ch."
-    },
-    {
-      "data": "18/08/2026 15:07",
-      "projeto": "Appartement à Esch-sur-Alzette",
-      "imovel": "023",
-      "de": "Disponível",
-      "para": "Reservado",
-      "preco": "419 405 €",
-      "chambres": "1 ch."
-    },
-    {
-      "data": "18/08/2026 15:07",
-      "projeto": "Appartements à Luxembourg-Bonnevoie",
-      "imovel": "114",
-      "de": "Disponível",
-      "para": "Reservado",
-      "preco": "364 891 €",
-      "chambres": "3 ch."
-    },
-    {
-      "data": "18/08/2026 15:07",
-      "projeto": "Appartements à Luxembourg-Bonnevoie",
-      "imovel": "083",
-      "de": "Disponível",
-      "para": "Reservado",
-      "preco": "484 563 €",
-      "chambres": "1 ch."
-    },
-    {
-      "data": "18/08/2026 15:07",
-      "projeto": "Appartements à Luxembourg-Bonnevoie",
-      "imovel": "119",
-      "de": "Disponível",
-      "para": "Reservado",
-      "preco": "364 891 €",
-      "chambres": "3 ch."
-    },
-    {
-      "data": "18/08/2026 15:07",
-      "projeto": "Maisons unifamiliales à Esch-sur-Alzette",
-      "imovel": "IH3564",
-      "de": "Disponível",
-      "para": "Reservado",
-      "preco": "539 765 €",
-      "chambres": "4 ch."
     }
   ]
 }
