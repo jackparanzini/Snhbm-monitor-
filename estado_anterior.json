@@ -1,25 +1,9 @@
 {
-  "ultima_atualizacao": "19/11/2026 21:54",
+  "ultima_atualizacao": "20/11/2026 15:51",
   "dados": {
     "Maisons unifamiliales à Elmen": {
       "url": "https://snhbm.lu/projets/vente/bien/rev-ke2-mu/",
       "imoveis": {
-        "IH3060": {
-          "codigo": "IH3060",
-          "ref_completa": "IH3060",
-          "status": "Disponível",
-          "chambres": "4 ch.",
-          "surface": "139,97 m²",
-          "preco": "942 997 €"
-        },
-        "T5": {
-          "codigo": "T5",
-          "ref_completa": "T5",
-          "status": "Disponível",
-          "chambres": "4 ch.",
-          "surface": "136,13 m²",
-          "preco": "666 302 €"
-        },
         "IH3095": {
           "codigo": "IH3095",
           "ref_completa": "IH3095",
@@ -58,6 +42,22 @@
           "status": "Reservado",
           "chambres": "4 ch.",
           "surface": "136,13 m²",
+          "preco": "665 652 €"
+        },
+        "T5": {
+          "codigo": "T5",
+          "ref_completa": "T5",
+          "status": "Disponível",
+          "chambres": "4 ch.",
+          "surface": "139,97 m²",
+          "preco": "666 302 €"
+        },
+        "IH3060": {
+          "codigo": "IH3060",
+          "ref_completa": "IH3060 - réservé",
+          "status": "Reservado",
+          "chambres": "4 ch.",
+          "surface": "139,97 m²",
           "preco": "666 302 €"
         },
         "IH3097": {
@@ -95,6 +95,14 @@
           "status": "Disponível",
           "chambres": "3 ch.",
           "surface": "95,48 m²",
+          "preco": "278 132 €"
+        },
+        "087": {
+          "codigo": "087",
+          "ref_completa": "087",
+          "status": "Disponível",
+          "chambres": "1 ch.",
+          "surface": "49,31 m²",
           "preco": "277 397 €"
         },
         "088": {
@@ -111,6 +119,14 @@
           "status": "Disponível",
           "chambres": "3 ch.",
           "surface": "96,44 m²",
+          "preco": "460 428 €"
+        },
+        "091": {
+          "codigo": "091",
+          "ref_completa": "091",
+          "status": "Disponível",
+          "chambres": "2 ch.",
+          "surface": "90,98 m²",
           "preco": "537 263 €"
         },
         "093": {
@@ -127,14 +143,6 @@
           "status": "Disponível",
           "chambres": "1 ch.",
           "surface": "88,12 m²",
-          "preco": "331 686 €"
-        },
-        "096": {
-          "codigo": "096",
-          "ref_completa": "096",
-          "status": "Disponível",
-          "chambres": "1 ch.",
-          "surface": "59,95 m²",
           "preco": "537 263 €"
         },
         "099": {
@@ -151,22 +159,6 @@
           "status": "Disponível",
           "chambres": "1 ch.",
           "surface": "95,46 m²",
-          "preco": "392 710 €"
-        },
-        "102": {
-          "codigo": "102",
-          "ref_completa": "102 - réservé",
-          "status": "Reservado",
-          "chambres": "1 ch.",
-          "surface": "88,81 m²",
-          "preco": "540 405 €"
-        },
-        "105": {
-          "codigo": "105",
-          "ref_completa": "105",
-          "status": "Disponível",
-          "chambres": "2 ch.",
-          "surface": "77,21 m²",
           "preco": "302 655 €"
         },
         "116": {
@@ -201,14 +193,6 @@
           "surface": "49,31 m²",
           "preco": "295 959 €"
         },
-        "087": {
-          "codigo": "087",
-          "ref_completa": "087 - réservé",
-          "status": "Reservado",
-          "chambres": "1 ch.",
-          "surface": "49,31 m²",
-          "preco": "484 563 €"
-        },
         "090": {
           "codigo": "090",
           "ref_completa": "090 - réservé",
@@ -216,14 +200,6 @@
           "chambres": "4 ch.",
           "surface": "115,43 m²",
           "preco": "291 147 €"
-        },
-        "091": {
-          "codigo": "091",
-          "ref_completa": "091 - réservé",
-          "status": "Reservado",
-          "chambres": "2 ch.",
-          "surface": "90,98 m²",
-          "preco": "295 959 €"
         },
         "092": {
           "codigo": "092",
@@ -239,6 +215,14 @@
           "status": "Reservado",
           "chambres": "1 ch.",
           "surface": "77,21 m²",
+          "preco": "331 686 €"
+        },
+        "096": {
+          "codigo": "096",
+          "ref_completa": "096 - réservé",
+          "status": "Reservado",
+          "chambres": "1 ch.",
+          "surface": "59,95 m²",
           "preco": "476 745 €"
         },
         "098": {
@@ -255,7 +239,15 @@
           "status": "Reservado",
           "chambres": "1 ch.",
           "surface": "100,53 m²",
-          "preco": "458 937 €"
+          "preco": "392 710 €"
+        },
+        "102": {
+          "codigo": "102",
+          "ref_completa": "102 - réservé",
+          "status": "Reservado",
+          "chambres": "1 ch.",
+          "surface": "88,81 m²",
+          "preco": "540 405 €"
         },
         "103": {
           "codigo": "103",
@@ -272,6 +264,14 @@
           "chambres": "2 ch.",
           "surface": "88,12 m²",
           "preco": "333 370 €"
+        },
+        "105": {
+          "codigo": "105",
+          "ref_completa": "105 - réservé",
+          "status": "Reservado",
+          "chambres": "2 ch.",
+          "surface": "77,21 m²",
+          "preco": "494 429 €"
         },
         "107": {
           "codigo": "107",
@@ -520,6 +520,51 @@
   },
   "historico": [
     {
+      "data": "20/11/2026 15:51",
+      "projeto": "Maisons unifamiliales à Elmen",
+      "imovel": "IH3060",
+      "de": "Disponível",
+      "para": "Reservado",
+      "preco": "666 302 €",
+      "chambres": "4 ch."
+    },
+    {
+      "data": "20/11/2026 15:51",
+      "projeto": "Appartements à Luxembourg-Bonnevoie",
+      "imovel": "087",
+      "de": "Reservado",
+      "para": "Disponível",
+      "preco": "277 397 €",
+      "chambres": "1 ch."
+    },
+    {
+      "data": "20/11/2026 15:51",
+      "projeto": "Appartements à Luxembourg-Bonnevoie",
+      "imovel": "091",
+      "de": "Reservado",
+      "para": "Disponível",
+      "preco": "537 263 €",
+      "chambres": "2 ch."
+    },
+    {
+      "data": "20/11/2026 15:51",
+      "projeto": "Appartements à Luxembourg-Bonnevoie",
+      "imovel": "096",
+      "de": "Disponível",
+      "para": "Reservado",
+      "preco": "476 745 €",
+      "chambres": "1 ch."
+    },
+    {
+      "data": "20/11/2026 15:51",
+      "projeto": "Appartements à Luxembourg-Bonnevoie",
+      "imovel": "105",
+      "de": "Disponível",
+      "para": "Reservado",
+      "preco": "494 429 €",
+      "chambres": "2 ch."
+    },
+    {
       "data": "11/11/2026 14:50",
       "projeto": "Maisons unifamiliales à Elmen",
       "imovel": "IH3060",
@@ -742,51 +787,6 @@
       "de": "Disponível",
       "para": "Reservado",
       "preco": "277 397 €",
-      "chambres": "1 ch."
-    },
-    {
-      "data": "28/09/2026 14:47",
-      "projeto": "Appartements à Luxembourg-Bonnevoie",
-      "imovel": "088",
-      "de": "Disponível",
-      "para": "Reservado",
-      "preco": "511 282 €",
-      "chambres": "1 ch."
-    },
-    {
-      "data": "28/09/2026 14:47",
-      "projeto": "Appartements à Luxembourg-Bonnevoie",
-      "imovel": "092",
-      "de": "Disponível",
-      "para": "Reservado",
-      "preco": "392 710 €",
-      "chambres": "2 ch."
-    },
-    {
-      "data": "28/09/2026 14:47",
-      "projeto": "Appartements à Luxembourg-Bonnevoie",
-      "imovel": "108",
-      "de": "Disponível",
-      "para": "Reservado",
-      "preco": "540 403 €",
-      "chambres": "2 ch."
-    },
-    {
-      "data": "28/09/2026 14:47",
-      "projeto": "Appartements à Luxembourg-Bonnevoie",
-      "imovel": "118",
-      "de": "Disponível",
-      "para": "Reservado",
-      "preco": "384 246 €",
-      "chambres": "3 ch."
-    },
-    {
-      "data": "08/09/2026 14:04",
-      "projeto": "Appartements à Luxembourg-Bonnevoie",
-      "imovel": "083",
-      "de": "Reservado",
-      "para": "Disponível",
-      "preco": "295 959 €",
       "chambres": "1 ch."
     }
   ]
